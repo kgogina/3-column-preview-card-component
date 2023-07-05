@@ -18,11 +18,11 @@ body {
     width: 60%;
 }
 
-#icon {
+.icon {
     margin: 2.1875rem 2.1875rem 0rem 1.875rem;
 }
 
-#title {
+.title {
     text-transform: uppercase;
     color: hsl(0, 0%, 95%);
     font-size: 2.5rem;
@@ -72,7 +72,6 @@ a {
     cursor: pointer;
     font-family: "Lexend Deca", sans-serif;
     margin: 5rem 1.25rem 2.5rem 1.875rem;
-    position: flex;
     white-space: nowrap;
 }
 
