@@ -10,7 +10,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 8.5%;
+    margin-top: 5%;
 }
 
 .container {
@@ -37,7 +37,7 @@ p {
     line-height: 1.5625rem;
     font-family: "Lexend Deca", sans-serif;
     margin: 1.5625rem 2.1875rem 2.5rem 1.875rem;
-    min-height: 13.75rem;
+    min-height: 180px;
 }
 
 .container div {
