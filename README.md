@@ -15,4 +15,7 @@ This is an HTML and CSS project that showcases three different types of cars: Se
 ## Credits
 This project was created as part of a challenge on www.frontendmentor.io. Special thanks to Frontend Mentor for providing the design and inspiration for this project.
 
+The project was created for learning purposes and does not represent a real company or offer real services. 
+
+
 Thank you for checking the 3 Column Preview Card Component! If you have any questions or suggestions, please feel free to contact me.
